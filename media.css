@@ -1,0 +1,90 @@
+@media (max-width: 600px){
+    html{
+        font-size: 14px;
+    }
+    .certificate{
+        width: 90%;
+    }
+    .button{
+        width: 96%;
+        font-size: 12px;
+        padding: 2%;
+
+    }
+    .buttons{
+        height: auto;
+    }
+    .photos_container div{
+        height: 50px;
+    }
+    .year {
+        font-size: 12px;
+    }
+    .swears_container div{
+        font-size: 16px;
+    }
+    .swear_input{
+        font-size: 16px;
+        width: 50px;
+    }
+    .cert_stump img{
+        height: 90px;
+        width: auto;
+    }
+
+}
+
+@media (min-width: 601px) and (max-width: 1000px){
+    html{
+        font-size: 18px;
+    }
+    .certificate{
+        width: 90%;
+    }
+    .button{
+        width: 96%;
+        font-size: 18px;
+        padding: 2%;
+
+    }
+    .buttons{
+        height: auto;
+    }
+    .photos_container div{
+        height: 90px;
+    }
+    .year {
+        font-size: 12px;
+    }
+    .swears_container div{
+        font-size: 16px;
+    }
+    .swear_input{
+        font-size: 16px;
+        width: 50px;
+    }
+    .cert_stump img{
+        height: 90px;
+        width: auto;
+    }
+
+}
+
+@media (min-width: 1001px) and (max-width: 1439px){
+    html{
+        font-size: 20px;
+    }
+    .photos_container div{
+        height: 120px;
+    }
+    .year {
+        font-size: 12px;
+    }
+    .swears_container div{
+        font-size: 20px;
+    }
+    .swear_input{
+        font-size: 16px;
+        width: 70px;
+    }
+}
