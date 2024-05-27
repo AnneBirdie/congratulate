@@ -1,5 +1,5 @@
 let speed = 120;
-speed = 0.1;
+/*speed = 0.1;*/
 let i = 0; /*перебор по буквам*/
 let j = 0; /*перебор по title_text*/ 
 let k = 0; /*перебор по title_text[j]*/ 
